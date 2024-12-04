@@ -43,3 +43,15 @@ Apply a series of augmentations (rotation, scaling, flipping, etc.) to increase 
 
 ### 7. Noise Addition
 - **Salt-and-Pepper Noise**: Introduce random salt-and-pepper noise to simulate real-world imperfections in images.
+
+### 8. Requirements:
+Python 3.x
+OpenCV
+TensorFlow
+PIL (Pillow)
+Matplotlib
+Numpy
+
+You can install the dependencies via:
+pip install -r requirements.txt
+
