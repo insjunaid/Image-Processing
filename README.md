@@ -2,7 +2,7 @@
 
 This repository contains various Python scripts for image processing, enhancement, augmentation, and noise removal. The toolkit utilizes libraries like OpenCV, TensorFlow, PIL, and Matplotlib to provide functionality for different types of image manipulations.
 
-## Concepts Covered:
+## Content:
 - Image Thresholding
 - Histogram Plotting
 - Contrast Enhancement
