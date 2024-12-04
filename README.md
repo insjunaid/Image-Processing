@@ -46,18 +46,20 @@ Apply a series of augmentations (rotation, scaling, flipping, etc.) to increase 
 
 ### 8. Requirements:
 -Python 3.x
+
 -OpenCV
+
 -TensorFlow
+
 -PIL (Pillow)
+
 -Matplotlib
+
 -Numpy
 
-## Installation
+### Installation
 
 To install the required dependencies for the project, run the following command:
 
 ```bash
 pip install -r requirements.txt
-
-
-
